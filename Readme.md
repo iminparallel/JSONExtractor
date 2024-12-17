@@ -43,7 +43,8 @@ Example: <br/>
 
 User: Get me FlipKart's Profit for the last year
 <br/>
-Output: [
+Output:
+[
 {
 "entity": "FlipKart",
 "parameter": "Profit",
@@ -67,7 +68,5 @@ Output: [
 "parameter": "Profit",
 "start": "2024-12-17",
 "end" : "2023-12-17",
-
-    }
-
+}
 ]
