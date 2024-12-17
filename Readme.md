@@ -39,9 +39,9 @@ month, week, quarter and such
 
 # JSONExtractor
 
-Example:
+Example: \n
 
-User: Get me FlipKart's Profit for the last year
+User: Get me FlipKart's Profit for the last year \n
 Output: [
 {
 "entity": "FlipKart",
@@ -51,9 +51,9 @@ Output: [
 
     }
 
-]
+] \n
 
-User: Compare this with Amazon
+User: Compare this with Amazon \n
 Output: [
 {
 "entity": "FlipKart",
