@@ -29,7 +29,7 @@ langhain and llama3-8b-8192, and exports
 them in a json format using Pydantic
 Output Parser. The application has a
 conversational memory and it is able to
-ompare results with previous queries and
+compare results with previous queries and
 can return multiple JSON objects as a
 response. The model takes the last year
 as the period if no date is specified,
